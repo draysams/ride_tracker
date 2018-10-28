@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ride_tracker:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="ride_tracker.war">
+      <element id="artifact" artifact-name="ride_tracker:war exploded" />
+    </root>
+  </artifact>
+</component>

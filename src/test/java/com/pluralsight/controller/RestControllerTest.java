@@ -18,7 +18,7 @@ public class RestControllerTest {
 		RestTemplate restTemplate = new RestTemplate();
 
 		ResponseEntity<List<Ride>> ridesResponse = restTemplate.exchange(
-				"http://localhost:8080/ride_tracker/rides", HttpMethod.GET,
+				"http://localhost:8080/rides", HttpMethod.GET,
 				null, new ParameterizedTypeReference<List<Ride>>() {
 				});
 		List<Ride> rides = ridesResponse.getBody();
