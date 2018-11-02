@@ -19,6 +19,9 @@
           <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.5.0" />
           <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-core:2.5.0" />
           <element id="library" level="project" name="Maven: log4j:log4j:1.2.17" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-jdbc:4.3.6.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-tx:4.3.6.RELEASE" />
+          <element id="library" level="project" name="Maven: mysql:mysql-connector-java:6.0.5" />
         </element>
       </element>
       <element id="directory" name="META-INF">
